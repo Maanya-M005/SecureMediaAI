@@ -1,5 +1,5 @@
 <h2>Home page</h2>
-![Screenshot_6-4-2025_225135_](https://github.com/user-attachments/assets/68c318b1-3cdb-43db-ada6-2a80d91f662a)
+C:\users\sindhu\Downloads\Screenshot_6-4-2025_225135_.jpeg
 
 <h2>Image Encryption and Decryption</h2>
 ![image](https://github.com/user-attachments/assets/36265042-733e-46ad-a470-c13bc6eccf8a)
