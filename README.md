@@ -1,5 +1,5 @@
 <h2>Home page</h2>
-"C:\Users\Sindhu\Downloads\Screenshot_6-4-2025_225135_.jpeg"
+![Image](https://github.com/user-attachments/assets/e19ca4f8-c08f-4782-a297-27694e66bee1)
 <h2>Image Encryption and Decryption</h2>
 ![image](https://github.com/user-attachments/assets/36265042-733e-46ad-a470-c13bc6eccf8a)
 <h2>Choosing file</h2>
